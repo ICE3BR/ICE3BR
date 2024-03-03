@@ -2,7 +2,7 @@
   <source width="8%" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source width="8%" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img width="8%" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"><br></br>
-</picture>Olá! Prazer em te conhecer 👋, meu nome é [Gustavo Quinup - @ice3br]()
+</picture>Olá! Prazer em te conhecer 👋, meu nome é [Gustavo Quinup - @ice3br](https://github.com/ICE3BR/ICE3BR/tree/main).
 
 ## Sobre mim 👀 
 Sou uma pessoa apaixonada por tecnologia e minha profissão acaba trazendo muito disso, com excelente capacidade de organização e facilidade de trabalhar em equipe. Me considero adaptável a diferentes ambientes e sempre focado em atingir objetivos. Além disso, possuo conhecimento em diversas linguagens de programação como Python, JavaScript, CSS, entre outras. Tenho grande interesse em desenvolvimento de software e análise de sistemas.
