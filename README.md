@@ -9,8 +9,16 @@ Olá! Prazer em te conhecer 👋, meu nome é [Gustavo Quinup - @ice3br](https:/
 ## Sobre mim 👀 
 Sou uma pessoa apaixonada por tecnologia e minha profissão acaba trazendo muito disso, com excelente capacidade de organização e facilidade de trabalhar em equipe. Me considero adaptável a diferentes ambientes e sempre focado em atingir objetivos. Além disso, possuo conhecimento em diversas linguagens de programação como Python, JavaScript, CSS, entre outras. Tenho grande interesse em desenvolvimento de software e análise de sistemas.
 
-🌱 Atualmente estou focado em continuar aprendendo e aprimorando minhas habilidades em diferentes linguagens de programação. 
+- 🌱 Atualmente estou focado em continuar aprendendo e aprimorando minhas habilidades em diferentes linguagens de programação.
+- 🖥️ Atualmente mais focado em:
 
+<div display="inline">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
 
 ## Colaboração 💞 
 Estou interessado em colaborar com você em projetos emocionantes e desafiadores. Juntos podemos alcançar grandes coisas! 
@@ -34,4 +42,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://devicon.dev/ (link de um site com mais de 400 icones)
 -->
