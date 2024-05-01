@@ -20,8 +20,19 @@ Sou uma pessoa apaixonada por tecnologia e minha profissão acaba trazendo muito
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
+### Top Linguagens ⌨️
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ICE3BR&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+
 ## Colaboração 💞 
 Estou interessado em colaborar com você em projetos emocionantes e desafiadores. Juntos podemos alcançar grandes coisas! 
+
+### GitHub Stats ⭐
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ICE3BR&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ICE3BR&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+
+### Repositórios 🗃️
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ICE3BR&repo=Gerador-de-senhas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ICE3BR/Gerador-de-senhas)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ICE3BR&repo=Site-de-Noticias-Cidade&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ICE3BR/Site-de-Noticias-Cidade) 
 
 ## Contato 📫
 &nbsp;<a href="https://www.linkedin.com/in/gustavoaquinup2005">
@@ -38,21 +49,3 @@ Estou interessado em colaborar com você em projetos emocionantes e desafiadores
 </a>&nbsp;
 
 Estou ansioso para me conectar com você em breve e colaborar em projetos futuros! 😊
-
-<!--
-**ICE3BR/ICE3BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://devicon.dev/ (link de um site com mais de 400 icones)
-https://github.com/Ileriayo/markdown-badges (github badges)
-https://www.youtube.com/watch?v=Ox58iJ11rtA
--->
