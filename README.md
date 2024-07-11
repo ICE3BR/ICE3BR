@@ -63,11 +63,11 @@ Estou interessado em colaborar com você em projetos emocionantes e desafiadores
 
 ## Contato 📫
 <div>
-  <a href="https://linktr.ee/Work_GAQuinup" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>&nbsp;
+  <a href="https://linktr.ee/Work_GAQuinup"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank></a>&nbsp;
   <a href="https://www.instagram.com/w.gustavoaq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/gustavoaquinup2005" target="_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="mailto:gustavoaquinup@gmail.com" target="_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="https://discord.com/users/241560938895900673" target="_blank><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavoaquinup2005"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank></a>&nbsp;
+  <a href="mailto:gustavoaquinup@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://discord.com/users/241560938895900673"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 &nbsp;
