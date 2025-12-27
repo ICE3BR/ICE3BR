@@ -11,10 +11,29 @@ Sou uma pessoa apaixonada por tecnologia e minha profissão acaba trazendo muito
 
 - 🌱 Atualmente estou focado em continuar aprendendo e aprimorando minhas habilidades em diferentes linguagens de programação.
 
-<div align="center" style="margin-bottom:100px">
-  <img width=41% align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ICE3BR&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true" alt="Top Langs" />
-  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=ICE3BR&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars" alt="GitHub Stats" />
+<!-- GitHub Stats + Top Langs -->
+<div align="center">
+  
+  <!-- Card de estatísticas -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="160"
+      src="https://github-readme-stats.vercel.app/api?username=ICE3BR&show_icons=true&theme=transparent"
+      alt="GitHub Stats - ICE3BR"
+    />
+  </a>
+
+  <!-- Card de linguagens -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="160"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICE3BR&layout=compact&theme=transparent"
+      alt="Top Langs - ICE3BR"
+    />
+  </a>
+
 </div>
+
 
 &nbsp;
 
