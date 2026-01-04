@@ -11,31 +11,6 @@ Sou uma pessoa apaixonada por tecnologia e minha profissão acaba trazendo muito
 
 - 🌱 Atualmente estou focado em continuar aprendendo e aprimorando minhas habilidades em diferentes linguagens de programação.
 
-<!-- GitHub Stats + Top Langs -->
-<div align="center">
-  
-  <!-- Card de estatísticas -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="160"
-      src="https://github-readme-stats.vercel.app/api?username=ICE3BR&show_icons=true&theme=transparent"
-      alt="GitHub Stats - ICE3BR"
-    />
-  </a>
-
-  <!-- Card de linguagens -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="160"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICE3BR&layout=compact&theme=transparent"
-      alt="Top Langs - ICE3BR"
-    />
-  </a>
-
-</div>
-
-
-&nbsp;
 
 ## My Skills
 ### Programming & Development:
@@ -71,15 +46,8 @@ Sou uma pessoa apaixonada por tecnologia e minha profissão acaba trazendo muito
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />&nbsp;    
 </div>
 
-## Colaboração 💞 
+## Colaboração 💞
 Estou interessado em colaborar com você em projetos emocionantes e desafiadores. Juntos podemos alcançar grandes coisas! 
-
-### <p align="center">GitHub Stats ⭐</p>
-<div align="center" style="margin-bottom:100px">
-  <a href="https://git.io/streak-stats"><img width=50% align="center" src="https://streak-stats.demolab.com/?user=ICE3BR&theme=bear&background=000&border=30A3DC&dates=FFF alt="GitHub Streak" /></a>
-</div>
-
-
 
 ## Contato 📫
 <div>
