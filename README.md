@@ -6,6 +6,9 @@
 
 Olá! Prazer em te conhecer 👋, meu nome é [Gustavo Quinup - @ice3br](https://github.com/ICE3BR/ICE3BR/tree/main)
 
+## [Meu Portifólio:](https://me.gaqtech.dev)
+- Contem projetos privados, com explicações e imagens porém sem acesso ao código fonte.
+
 ## Sobre mim 👀 
 Sou uma pessoa apaixonada por tecnologia e minha profissão acaba trazendo muito disso, com excelente capacidade de organização e facilidade de trabalhar em equipe. Me considero adaptável a diferentes ambientes e sempre focado em atingir objetivos. Além disso, possuo conhecimento em diversas linguagens de programação como Python, JavaScript, CSS, entre outras. Tenho grande interesse em desenvolvimento de software e análise de sistemas.
 
