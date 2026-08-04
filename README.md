@@ -1,67 +1,47 @@
-<picture>
-  <source width="8%" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source width="8%" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img width="8%" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"><br>
-</picture> 
+# Gustavo Quinup
 
-Olá! Prazer em te conhecer 👋, meu nome é [Gustavo Quinup - @ice3br](https://github.com/ICE3BR/ICE3BR/tree/main)
+**Desenvolvedor Python | Automação de processos e integrações**
 
-## [Meu Portifólio:](https://me.gaqtech.dev)
-- Contem projetos privados, com explicações e imagens porém sem acesso ao código fonte.
+Sou estudante de Engenharia da Computação, atualmente no 9º semestre, com experiência prática em desenvolvimento Python, automação, APIs, bancos de dados e soluções com IA.
 
-## Sobre mim 👀 
-Sou uma pessoa apaixonada por tecnologia e minha profissão acaba trazendo muito disso, com excelente capacidade de organização e facilidade de trabalhar em equipe. Me considero adaptável a diferentes ambientes e sempre focado em atingir objetivos. Além disso, possuo conhecimento em diversas linguagens de programação como Python, JavaScript, CSS, entre outras. Tenho grande interesse em desenvolvimento de software e análise de sistemas.
+De março de 2025 a abril de 2026, atuei como Estagiário de Análise de Sistemas apoiando **Legal Ops**. Nesse período, desenvolvi e mantive soluções utilizadas em produção com Python, FastAPI, OpenAI, MariaDB/MySQL, AWS e Linux.
 
-- 🌱 Atualmente estou focado em continuar aprendendo e aprimorando minhas habilidades em diferentes linguagens de programação.
+## Foco profissional
 
+- Desenvolvimento backend com Python e FastAPI
+- Automação de processos e integração de sistemas
+- APIs REST e processamento de documentos
+- SQL, MariaDB/MySQL e governança de dados
+- IA generativa com OpenAI
+- Implantação em AWS e Linux
 
-## My Skills
-### Programming & Development:
-<div style="display: inline">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
-</div>
+## Projetos públicos selecionados
 
-### Workstation Tools:
-<div style="display: inline">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />&nbsp;
-</div>
+- [IA-Laudos-OpenAI](https://github.com/ICE3BR/IA-Laudos-OpenAI) - análise de laudos em PDF com Python e OpenAI
+- [Automacao_lotes](https://github.com/ICE3BR/Automacao_lotes) - geração padronizada de planilhas de integração
+- [web-scraping-CIDS](https://github.com/ICE3BR/web-scraping-CIDS) - extração de dados com Selenium, Excel e checkpoints
+- [qrcode_generator](https://github.com/ICE3BR/qrcode_generator) - geração de QR Codes personalizados
+- [Portfólio](https://me.gaqtech.dev) - estudos de caso de projetos públicos e privados
 
-### Design Tools:
-<div style="display: inline">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&nbsp;
-</div>
+## Tecnologias
 
-### Cloud & DevOps Tools:
-<div style="display: inline">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />&nbsp;    
-</div>
+**Linguagem:** Python  
+**Backend e APIs:** FastAPI, REST APIs  
+**Dados:** SQL, MariaDB, MySQL, pandas, OpenPyXL, Power BI  
+**IA e automação:** OpenAI, IA generativa, N8N, Make, Selenium  
+**Infraestrutura:** AWS, Linux, Nginx, Systemd, Docker  
+**Ferramentas:** Git, GitHub, Scrum, Kanban
 
-## Colaboração 💞
-Estou interessado em colaborar com você em projetos emocionantes e desafiadores. Juntos podemos alcançar grandes coisas! 
+## English
 
-## Contato 📫
-<div>
-  <a href="https://linktr.ee/Work_GAQuinup"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank></a>&nbsp;
-  <a href="https://www.instagram.com/w.gustavoaq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/gustavoaquinup2005"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank></a>&nbsp;
-  <a href="mailto:gustavoaquinup@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="https://discord.com/users/241560938895900673"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
+Python developer focused on process automation, backend services, and system integrations. I am currently completing a Bachelor's degree in Computer Engineering.
 
-&nbsp;
-&nbsp;
+From March 2025 to April 2026, I worked as a Systems Analysis Intern supporting Legal Ops, building and maintaining production solutions with Python, FastAPI, OpenAI, MariaDB/MySQL, AWS, and Linux.
 
-<p align="center">Estou ansioso para me conectar com você em breve e colaborar em projetos futuros! 😊</p>
+**Languages:** Portuguese (native), English (advanced), French and Spanish (basic).
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gustavoaquinup2005)
+- [Portfólio](https://me.gaqtech.dev)
+- [E-mail](mailto:gustavoaquinup@gmail.com)
